@@ -1,2 +1,1 @@
-Librerias .exe necesarias https://ffmpeg.org/ (Ffmpeg.exe)
-Libreria .exe necesaria https://github.com/yt-dlp/yt-dlp (yt-dlp.exe)
+Librerias .exe necesarias https://ffmpeg.org/ (Ffmpeg.exe) y necesaria https://github.com/yt-dlp/yt-dlp (yt-dlp.exe)
